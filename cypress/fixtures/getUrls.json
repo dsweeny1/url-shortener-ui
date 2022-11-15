@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+          "id": 1,
+          "long_url": "https://images.unsplash.com/photo-1531898418865-480b7090470f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+          "short_url": "http://localhost:3001/useshorturl/1",
+          "title": "Awesome photo"
+          },
+          {
+            "long_url": "https://thespaces.com/architect-michael-haverland-and-novelist-philip-galanes-list-their-east-hampton-glass-house/?epik=dj0yJnU9VmhYV3l2MmtRd3F4M1k0VmVHeE5Qa0ItV3BZRkNBamUmcD0wJm49cjkyZ3VnLWtEWXhCUU9uSGtFbm9YZyZ0PUFBQUFBR056d3pZ",
+            "id": 3,
+            "title": "pinterest",
+            "short_url": "http://localhost:3001/useshorturl/3"
+            }
+      ]
+}
